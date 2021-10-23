@@ -1,0 +1,13 @@
+what I am use for create that programme?
+
+1. using gcc in linux (parrot security).
+2. gdb for debaguing and catch the errors.
+3. using data strecter ( chains lists )
+4. fonctions.
+5. system fonction for using system commend in linux.
+6. the code is plan of comment.
+7. using files for saving data.
+
+    the programme is my first programme using C languge start of work in 17/10/2021 and finish it in 19/10/2021 and uplode it in #######################
+
+   [!]. created by jamal boussouf for practesing C languge
